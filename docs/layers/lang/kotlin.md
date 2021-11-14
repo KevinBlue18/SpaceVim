@@ -69,7 +69,7 @@ and the result will be shown in a runner buffer.
 
 ## Language Server Protocol
 
-To enable lsp support for kotlin, you need to load the [lsp](../language-server-protocol/) layer, and include `kotlin` filetype:
+To enable lsp support for kotlin, you need to load the [lsp](https://spacevim.org/layers/language-server-protocol/) layer, and include `kotlin` filetype:
 
 ```toml
 [[layers]]
